@@ -22,7 +22,7 @@ document.getElementById("startreset").onclick = function(){
         
         //set score to 0
         
-        score = 0;
+       // score = 0;
         document.getElementById("scorevalue").innerHTML = score;
      
         //show countdown box 
