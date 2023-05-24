@@ -1,9 +1,9 @@
 //javascript.js
-// var playing = false;
-// var score;
-// var action;
-// var timeremaining;
-// var correctAnswer;
+var playing = false;
+var score;
+var action;
+var timeremaining;
+var correctAnswer;
 
 //if we click on the start/reset
 document.getElementById("startreset").onclick = function () {
